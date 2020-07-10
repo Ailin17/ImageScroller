@@ -1,0 +1,22 @@
+[
+  {
+    "img": "img1.jpg",
+    "class": "headshot"
+  },
+  {
+    "img": "img2.jpg",
+    "class": "headshot"
+  },
+  {
+    "img": "img3.jpg",
+    "class": "film"
+  },
+  {
+    "img": "img4.jpg",
+    "class": "film"
+  },
+  {
+    "img": "img5.jpg",
+    "class": "theater"
+  }
+]
